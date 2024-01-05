@@ -36,6 +36,8 @@ body .gist .pl-coc,
 body .gist .pl-enc,
 body .gist .pl-ens,
 body .gist .pl-kos,
+body .gist .pl-s,
+body .gist .pl-s1,
 body .gist .pl-kou,
 body .gist .pl-mh .pl-pdh,
 body .gist .pl-mp,
@@ -59,8 +61,6 @@ body .gist .pl-vpu {
 body .gist .pl-cos,
 body .gist .pl-ml,
 body .gist .pl-pds,
-body .gist .pl-s,
-body .gist .pl-s1,
 body .gist .pl-sol {
     color: #e6db74;
 }
