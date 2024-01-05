@@ -1,4 +1,4 @@
-body .pl-s1{color:#dadada !important;}
+body .pl-s{color:#dadada !important;}
 
 body .gist .highlight {
     background: #272822;
@@ -145,3 +145,12 @@ body .gist .pl-iu {
     background: #a6e22e;
     color: #272822;
 }
+
+body .gist-meta a{color:#696969;text-decoration:none;transition:0.2s ease-in color}
+body .gist-meta a:hover{color:black}
+body .Box-body .highlight{background-color:#1E1E1E}
+body .Box-body .highlight .blob-num{color:#b9b9b9ab;border-right:2px solid #b9b9b97e}
+body .gist .gist-file{background-color:black !important;border-color:black !important}
+body .gist .gist-file .gist-meta{background-color:#151515;color:#929292}
+body .gist .gist-file .gist-meta a{color:#c9c9c9}
+body .gist .gist-file .gist-meta a:hover{color:white}
