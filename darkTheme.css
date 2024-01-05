@@ -1,4 +1,5 @@
 body .blob-code{color:#dadada !important}
+body * .pl-s1{color:#dadada}
 body .type-html .pl-smi{color:#dadada}
 body .type-html .pl-ent{color:#569cd6}
 body .type-html .pl-c1{color:#9cdcfe}
@@ -6,9 +7,9 @@ body .type-html .pl-kos{color:#424242}
 body .type-html .pl-s{color:#ce8349}
 body .type-javascript .pl-k{color:#2c7ad6}
 body .type-javascript .pl-en{color:#dcdcaa}
-body .type-javascript .pl-s1{color:#dadada}
-body .type-javascript .pl-kos{color:#dadada}
 body .type-javascript .pl-s{color:#ce8349}
+/* body .type-javascript .pl-s1{color:#dadada} */
+body .type-javascript .pl-kos{color:#dadada}
 body .type-javascript .pl-smi{color:#4ec9b0}
 body .type-css .pl-c1{color:#9cdcfe}
 body .type-css .pl-pds,
